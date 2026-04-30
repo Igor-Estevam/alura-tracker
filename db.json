@@ -1,0 +1,59 @@
+{
+  "projetos": [
+    {
+      "id": "1",
+      "nome": "Alura Tracker 1.022"
+    },
+    {
+      "id": "2tFLx-1Jhuo",
+      "nome": "Plano de estudos igor"
+    },
+    {
+      "nome": "Plano de estudos",
+      "id": "Ms2MZi2AvFg"
+    },
+    {
+      "nome": "Plano de estudos igor",
+      "id": "FLmzjhhluhQ"
+    }
+  ],
+  "tarefas": [
+    {
+      "id": "1",
+      "duracaoEmSegundos": 120,
+      "descricao": "Configuração dos ambientes",
+      "projeto": {
+        "id": 1,
+        "nome": "Alura Tracker"
+      }
+    },
+    {
+      "duracaoEmSegundos": 9,
+      "descricao": "fazer",
+      "projeto": {
+        "id": "1",
+        "nome": "Alura Tracker 1"
+      },
+      "id": "Bs-v7ZdsPqk"
+    },
+    {
+      "duracaoEmSegundos": 3,
+      "descricao": "eu sou trabalhador",
+      "projeto": {
+        "id": "1",
+        "nome": "Alura Tracker 1"
+      },
+      "id": "_wVxprc6He8"
+    },
+    {
+      "duracaoEmSegundos": 9,
+      "descricao": "eu sou voce",
+      "projeto": {
+        "id": "1",
+        "nome": "Alura Tracker 1.022"
+      },
+      "id": "kQ86lk8hjjE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
